@@ -4,3 +4,9 @@
 
 Hi ! You'll find in this repository a tutorial on how to use segmentation models for real-time segmentation of MRI brain scans. For this purpose we're going to use FastSAM.
 The Fast Segment Anything Model (FastSAM) is a CNN Segment Anything Model trained on a mere 2% of the SA-1B dataset as disclosed by the authors of SAM (Meta). As per the FastSAM authors, it attains similar performance to the SAM approach while operating at 50 times the speed.
+
+## Credits: 
+
+Victor Hoffmann.
+
+Follow me on LinkedIn [@Victor-Hoffmann-AI](https://www.linkedin.com/in/victor-hoffmann-ai/) ! 
