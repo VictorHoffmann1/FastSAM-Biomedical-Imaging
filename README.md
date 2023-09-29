@@ -1,6 +1,7 @@
 # Real-Time Segmentation for Biomedical Imaging
-
+<p align="center">
 ![masked_MRI_brain_video](https://github.com/VictorHoffmann1/FastSAM-Biomedical-Imaging/assets/107257366/c78ec35f-a2a5-40ad-a804-d1220a9d80d1)
+</p>
 
 ## Description
 
