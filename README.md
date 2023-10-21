@@ -1,6 +1,6 @@
 # Real-Time Segmentation for Biomedical Imaging
 <p align="center">
-  <img src="https://github.com/VictorHoffmann1/FastSAM-Biomedical-Imaging/assets/107257366/c78ec35f-a2a5-40ad-a804-d1220a9d80d1" alt="MRI_Brain_Segmentation" />
+  <img src="https://github.com/VictorHoffmann1/FastSAM-Biomedical-Imaging/assets/107257366/ac87240f-093c-47a4-99f2-8a9132eb54c4" alt="MRI_Brain_Segmentation" />
 </p>
 
 
